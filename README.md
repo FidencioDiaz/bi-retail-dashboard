@@ -4,6 +4,12 @@ Dashboard interactivo de Inteligencia de Negocios (**Business Intelligence**) de
 
 ---
 
+## ✨ DEMO de la Aplicación:
+
+https://fiden-retail-bi.streamlit.app/
+
+---
+
 ## 🚀 Inicio Rápido (Cómo Ejecutar la Aplicación)
 
 El entorno virtual `.venv` y todas las dependencias ya están instaladas y listas en este directorio.
